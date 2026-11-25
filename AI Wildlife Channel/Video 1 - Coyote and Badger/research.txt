@@ -1,0 +1,220 @@
+WILD WYOMING | Why a Coyote and a Badger Hunt as a Team
+RESEARCH NOTES (fact sheet for script and visuals)
+Compiled 2026-11-25
+
+METHOD NOTE: The research used web search only. Direct page fetching was blocked
+in this environment (nps.gov, fws.gov, gwern.net, ncbi.nlm.nih.gov were all unreachable).
+So the facts below come from search-indexed text of the cited pages, not full reads.
+The full text of Minta et al. 1992 was NOT read. Only its abstract and how other
+authoritative sources report it were seen. Anything marked UNVERIFIED must not be
+narrated as fact until someone checks the original.
+
+======================================================================
+1. THE ASSOCIATION: WHAT, WHERE, WHEN, NUMBERS
+======================================================================
+- Definition: coyotes and American badgers sometimes hunt the same burrowing rodents (ground squirrels, prairie dogs) together, using complementary skills. The badger digs below ground and the coyote chases above ground. [Source 2]
+- The key study: Minta, S.C., Minta, K.A. & Lott, D.F. (1992), "Hunting associations between badgers (Taxidea taxus) and coyotes (Canis latrans)", Journal of Mammalogy 73(4): 814-820. [Source 1]
+- Study site: National Elk Refuge, Jackson, Wyoming (Jackson Hole), just south of Grand Teton National Park. [Source 3][Source 4]
+- Study years: observations came from a 1982-1985 badger ecology study on the refuge (Mintas of UC Davis). [Source 4][Source 5]
+- Abstract finding: coyotes that associated with badgers "appeared to hunt Uinta ground squirrels (Spermophilus armatus) more effectively than lone coyotes." [Source 1]
+- Headline number: coyotes hunting with a badger had a 34% increase in prey capture rate. [Source 5]
+  (NWF wording: badger-accompanied coyotes "catch a third more squirrels" than solitary coyotes. [Source 3])
+- Coyotes in association also consumed prey at higher rates (weaker statistical support, P = 0.09), and had a wider habitat range and lower locomotion costs. [Source 1]
+- Badgers with coyotes spent more time below ground and active (P = 0.02). The authors read this as probably lower locomotion and digging costs. Whether badgers gained as much as coyotes could NOT be established. [Source 1][Source 5]
+- On the National Elk Refuge, far more coyotes were seen hunting with badgers than alone. [Source 3]
+- Group size: the most common unit is one coyote with one badger. Occasionally two coyotes join. [Source 6]
+- Recent camera work found groups of 1-3 coyotes with a single badger. [Source 7]
+- Season (Minta study): ground-squirrel active season, i.e. spring-summer. The exact months were not read in the paper. UNVERIFIED.
+- UNVERIFIED (from unread full text or secondary summaries only, so do not narrate): capture rates of "0.74 vs 0.55 squirrels per hour"; "solitary badgers resurfaced 61% more often"; "~9% of associations had two coyotes, ~1% three"; the duration of associations in minutes; the total number of associations observed.
+- Earlier view: Lehner (1981, Great Basin Naturalist 41: 347-348) reported four coyote-badger observations in Jackson Hole. He called the pairing "phoretic" (accidental, nonobligatory) rather than true social symbiosis. Good for showing the science evolved. [Source 8]
+- Camera-trap confirmation: Thornton et al. (2018, Canadian Journal of Zoology 96(7)) recorded 5 coyote-badger hunting associations among 46 badger detections. All were in mid-to-late summer, when ground squirrels were most active, and ground squirrels were the target prey. [Source 9]
+- Windell et al. (2024, Journal of Mammalogy 105(6): 1309-1321; USGS co-authors; South Dakota) used cameras and found:
+    - coyotes used prairie dog colonies nearly twice as much as the surrounding grassland [Source 10]
+    - coyote use was higher in areas where badgers were active [Source 10]
+    - coyote and badger daily activity patterns overlapped strongly (~81%) [Source 9 search summary; Source 10]. The 81% figure is from a search summary. VERIFY in the paper before narrating.
+- History: the pairing appears in Native American storytelling, and scientists have described it since at least the 19th century. [Source 11][Source 2]
+
+======================================================================
+2. HOW THE HUNT WORKS
+======================================================================
+- Prey (Jackson Hole study): Uinta ground squirrel. [Source 1]
+- Prey (recent Great Plains work): prairie dogs, in prairie dog colonies. [Source 7][Source 10]
+- The core mechanism is that each predator drives prey toward the other:
+    - A squirrel threatened by a coyote retreats into its burrow, where the badger can dig it out.
+    - A squirrel facing a digging badger may bolt from the hole and run, where the coyote can catch it. [Source 12][Source 13]
+- Step by step, as summarized by Montana Fish, Wildlife & Parks: "The canid chases a ground squirrel or other prey into a burrow where the badger can get to it, or the badger will scare the prey out of a burrow where the coyote can catch it." [Source 13]
+- Coyote role: waits near or stands over the digging badger and catches squirrels that flush. [Source 1 summary][Source 2]
+- Badger role: digs into the burrow system. The coyote's presence above ground may keep prey underground, which helps the badger. [Source 12]
+- Who benefits: the coyote clearly does (+34% captures). The badger's benefit is likely but unproven: it spent more time underground and active, possibly catching or eating prey there. Badgers usually eat underground, so this is hard to measure. [Source 1][Source 4][Source 5]
+- Food sharing: there is NO evidence that they share kills. Each eats what it catches. The UNL researcher has no footage of them catching or eating prey together, and one observer told her they do not share. [Source 7]
+- Costs and risks: each species has been documented killing the other, usually adults killing the other species' young. [Source 7 / Source 14 quote by J. Benson]
+- NWF summary: coyotes sometimes kill young badgers. Among adults there is no mutual predation. [Source 3 via Source 4 summary]
+- Signalling and "play": in the Wyoming study, coyotes often tried to initiate play. Steven Minta is quoted describing the coyote's open mouth as a friendly display. [Source 4]
+- NWF describes coyotes using mock pursuit, bowing, "dancing" and face-pawing, possibly to get badgers moving to new digging sites. [Source 3]
+- The researchers also saw the two sitting or sleeping near each other and touching noses. This comes from secondary press only, so treat it as UNVERIFIED unless confirmed in Minta 1992 or NPCA. [Source 15]
+- The "play bow" and tail-wagging in the 2020 California culvert video come from National Geographic's description of that clip, not from Minta 1992. [Source 6]
+- Time of day: badgers are usually nocturnal or crepuscular. In the UNL camera work, however, coyote-badger groups were mostly seen in DAYTIME, when prairie dogs are active, which surprised the researchers. [Source 7]
+- Seasonality: associations are tied to the season when rodent prey is active above ground (spring-summer). The 2018 camera study found them only in mid-to-late summer. USFWS says the partnerships tend to emerge in warmer months. [Source 9][Source 16]
+- Not obligatory: both species also hunt alone a lot. [Source 16][Source 8]
+- Adult vs juvenile participants: no sourced data. UNVERIFIED.
+
+======================================================================
+3. NATURAL HISTORY
+======================================================================
+--- AMERICAN BADGER (Taxidea taxus) ---
+- Family Mustelidae (weasel family). It is the only living member of its genus. [Source 17]
+- Length 520-875 mm (about 20-34 in) head to tail, of which the tail is only 100-155 mm. [Source 18]
+- Weight 4-12 kg (about 9-26 lb) [Source 18]. Missouri Dept. of Conservation gives 13-30 lb. [Source 19]
+- Build: stocky body, short legs, tapered head. [Source 20]
+- Popular sources often call the body "flattened" or "wide and low", but this wording was not found in an authoritative source here. Safer to say "low, wide, stocky".
+- Claws: very long foreclaws, up to about 5 cm, used to dig burrows for resting, birthing, raising young and storing food. [Source 17 search summary][Source 21]
+- Head: a white stripe runs from the nose over the head. Montana's field guide notes the "white middorsal head stripe". In some southern populations the stripe runs farther down the back. [Source 22]
+- Activity: mainly nocturnal, but sometimes seen by day. [Source 23]
+- Winter: NOT a true hibernator. It enters torpor cycles of about 29 hours and may stay inactive in its den for up to about a month, emerging on milder days. [Source 24][Source 25][Source 17]
+- Diet: mainly ground squirrels, pocket gophers, prairie dogs, mice and voles, plus ground-nesting birds, eggs, reptiles and insects. [Source 13][Source 26]
+- In a Wyoming big sagebrush-rabbitbrush community, Uinta ground squirrels were the majority of badger prey. [Source 17]
+- Breeding: mates in late summer to early fall, with delayed implantation (December-February). Young are born in about March-April, litters of 1-5 (average ~3), born furred and blind. [Source 18]
+- Lifespan: about 9-10 years in the wild (high estimate). Records up to 26 years in captivity. [Source 18 / ADW-derived]
+- Spacing (Jackson Hole, Minta 1993, Oecologia 96: 402-409): [Source 27]
+    - during the summer breeding season, males doubled their movement rates and nearly tripled their home ranges, overlapping females
+    - the mean female home range was 2.82 km²
+    - females avoided each other
+- Wyoming status: classified as a furbearer (needs a license to take), NOT a "predatory animal". [Source 28]
+- Main adult mortality: vehicles, then farmers, sport shooting, and fur trapping. [Source 17]
+
+--- COYOTE (Canis latrans) ---
+- Weight varies by region. Commonly about 25-40 lb, and in Texas 14-20 kg. No Wyoming-specific weight was found. Narrate as "roughly 20 to 40 pounds" only with that caveat. [Source 29][Source 30]
+- Look: pointed snout, ears large for the head size, and it typically runs with its tail held LOW, unlike a wolf. [Source 31]
+- Mating: January-March. Gestation about 60-63 days. Pups (average ~6, range 1-19) are born blind in a den in spring. [Source 32][Source 33]
+- Pups emerge from the den at about 3-4 weeks and are weaned by about 5 weeks. [Source 33]
+- Lifespan: up to about 10 years in the wild and 18 in captivity. [Source 33]
+- Social: lives in family groups, but often hunts small rodents alone. [general; see Source 4 "social animals"]
+- Wyoming legal status: a "predatory animal" under W.S. 23-1-101, which may be taken without a license. [Source 34]
+- Grand Teton detail useful for narration: coyotes are abundant in the region (Yellowstone NPS page). [Source 35]
+
+--- PREY: UINTA GROUND SQUIRREL (Urocitellus armatus, formerly Spermophilus armatus) ---
+- Lives in sagebrush flats and meadows of Jackson Hole and Grand Teton. [Source 36]
+- Emerges from hibernation from late March to mid-April. Adult males emerge first, and females follow 1-3 weeks later. [Source 37]
+- Very short above-ground season: adults begin hibernating as early as mid-July. The big males go first, females follow in early August, and the May-born juveniles go last (late August). Hibernation lasts up to ~8 months. [Source 38][Source 39]
+- Before hibernating, the squirrels go through a period of heavy feeding to build fat ("hyperphagia"). [Source 39]
+- Not seen above ground by September. [Source 37]
+- VISUAL IMPLICATION: a Jackson Hole squirrel hunt must be set in spring or summer (about April to early August). No squirrels in fall or winter scenes.
+- Alarm calls: a "churr" for ground predators (coyote, badger) and a distinct "chirp" for aerial predators. [Source 37]
+- Burrows: dug in loose or soft soils. Family groups (mother and offspring) of about 4-7 burrow together. [Source 37]
+
+--- PREY: PRAIRIE DOGS IN WYOMING ---
+- Wyoming has two species:
+    - white-tailed prairie dog (Cynomys leucurus), mainly western Wyoming
+    - black-tailed prairie dog (C. ludovicianus), mainly eastern Wyoming
+    - they overlap in a band of about 60 km near Casper-Kaycee [Source 40]
+- Both are listed as Wyoming Species of Greatest Conservation Need ("Species of Concern"). [Source 40]
+- White-tailed prairie dogs HIBERNATE: adults are inactive by late August, all ages are underground by late October-November, and the first emerge around February-March. [Source 40][Source 41]
+- Black-tailed prairie dogs do not truly hibernate. The source found for this covers range only, so this is UNVERIFIED here. Check WGFD's account before narrating.
+- Alarm: the white-tailed "repetitious bark" alerts others to a threat. [Source 41]
+- NOTE: prairie dogs are NOT in Jackson Hole / the National Elk Refuge. The Minta study prey was Uinta ground squirrels. Use prairie dogs only for scenes set in Wyoming's basins or plains (e.g. Thunder Basin, Bighorn Basin), and label them as such. Their absence from Jackson Hole is consistent with the WGFD range descriptions, but no single source states it explicitly. [Source 40]
+
+======================================================================
+4. HABITAT / LANDSCAPE (scene settings)
+======================================================================
+- National Elk Refuge: grassy meadows, marshes, sagebrush, timbered areas, and rocky outcrops. About 24,700 acres of grasslands and wetlands, which are critical elk winter range. [Source 42]
+- The refuge borders the town of Jackson and lies just south of Grand Teton NP, with the Teton Range on the western skyline and Sheep Mountain / the Gros Ventre range to the east. [Source 4][Source 43]
+- Jackson Hole sagebrush flats (e.g. Antelope Flats) are dominated by big sagebrush, which gives the gray-green look. [Source 44][Source 45]
+- Spring flowers on the flats: scarlet gilia, silvery lupine, low larkspur. [Source 44]
+- June-July: yellow arrowleaf balsamroot and blue lupine. By August, sunflowers replace balsamroot. [Source 46]
+- Season-correct visual palette for the hunt:
+    - April-May: patchy snow on the Tetons, greening flats
+    - June-July: wildflowers, peak squirrel activity
+    - late July-August: drying, golden grass as squirrels disappear underground
+  [Source 38][Source 46]
+- Winter scenes on the refuge (elk herds, snow) are fine for "off-season" context, but show no squirrel hunting then. The badger is in its den with torpor bouts, and the coyote hunts voles or scavenges. (Winter coyote diet is not sourced here, so keep it general.) [Source 24][Source 42]
+
+======================================================================
+5. NOTABLE RECENT OBSERVATIONS
+======================================================================
+- Feb 2020 viral video: a Peninsula Open Space Trust (POST) wildlife camera filmed a coyote waiting for a badger and the two passing through a highway culvert near Gilroy, in the southern Santa Cruz Mountains, California. The footage was believed to be from November 2019. [Source 47][Source 11]
+- POST said it was the first documentation (that they knew of) of a coyote and badger using a human-made structure to travel together. [Source 47]
+- POST's Wildlife Linkages Program ran about 50 cameras at bridges and culverts, led by program manager Neal Sharma. [Source 47]
+- In that video the coyote "bows down playfully" and wags its tail, and the badger lifts its tail to keep pace (National Geographic's description). [Source 6]
+- Note: this is California, not Wyoming. Present it as "the same partnership, a thousand miles away".
+- Smithsonian covered the clip, noting the pair "are most likely embarking on a hunt together". The clip shows no actual hunt. [Source 11]
+- 2022-present: Emma Balunek (MS student) and John Benson at the University of Nebraska-Lincoln run camera grids at five sites from New Mexico to South Dakota, including Wind Cave NP and Valles Caldera National Preserve, plus earlier Colorado work at the Central Plains Experimental Range. [Source 2][Source 7]
+- By Oct 2024 that project had about 25 photos and videos of 1-3 coyotes hunting with a badger, all in prairie dog colonies and mostly by day. The results are preliminary. [Source 7]
+- The NPS asks the public to report sightings via go.unl.edu/coyote-badger. [Source 2]
+- Panthera camera-trap work on coyote-badger pairs: NOT FOUND in an authoritative source. UNVERIFIED, so omit.
+
+======================================================================
+6. MYTHS / EXAGGERATIONS TO AVOID
+======================================================================
+- "They are best friends / partners for life." There is no evidence of lasting pair bonds. The association is opportunistic and each species often hunts alone. Lehner (1981) even called it accidental and nonobligatory. [Source 8][Source 16]
+- "They share the kill." There is no evidence of this. Each eats its own catch. [Source 7]
+- "Both benefit equally." Only the coyote's gain (+34% captures) was measured. The badger's benefit is probable but unproven. Some press (e.g. National Geographic: "both more effective") overstates this. [Source 1][Source 5][Source 6]
+- "Coyotes are 34% more successful at every hunt." The 34% is a capture-RATE increase from one Wyoming study (1982-85). Don't generalize it to all regions or prey.
+- "They never harm each other." Both species kill the other's young. [Source 14]
+- "Badgers hibernate." They don't truly hibernate. They go into torpor. [Source 24]
+- Don't confuse the American badger with the honey badger (Africa/Asia) or the European badger. Don't use their imagery. The American badger has a white head stripe on a grizzled grey-brown body.
+- Don't show prairie dogs in Jackson Hole scenes. The study prey there was Uinta ground squirrels. [Source 1][Source 40]
+- Don't show squirrel hunts in fall or winter in Jackson Hole. The squirrels are underground from about August to March-April. [Source 37][Source 38]
+- Don't present the 2020 California culvert clip as a filmed hunt or as Wyoming footage. [Source 47][Source 11]
+- "Rare / never studied." It is well known anecdotally but has had few systematic studies. Minta 1992 remains the most in-depth. [Source 4][Source 2]
+
+======================================================================
+SOURCES
+======================================================================
+[1] Minta, S.C., Minta, K.A., Lott, D.F. 1992. Hunting associations between badgers (Taxidea taxus) and coyotes (Canis latrans). Journal of Mammalogy 73(4):814-820. https://academic.oup.com/jmammal/article-abstract/73/4/814/907355  (DOI 10.2307/1382201; full text mirror, not read: https://www.gwern.net/doc/biology/1992-minta.pdf)
+[2] U.S. National Park Service. "You Go Over, I Go Under: A Study of the Coyote-Badger Hunting Relationship." https://www.nps.gov/articles/000/you-go-over-i-go-under-a-study-of-the-coyote-badger-hunting-relationship.htm
+[3] National Wildlife Federation. 1996 (dated Dec 1995). "The Benefits of Badgers." National Wildlife magazine. https://www.nwf.org/Magazines/National-Wildlife/1996/The-Benefits-of-Badgers
+[4] Brulliard, N. 2024 (Fall). "Strange Bedfellows." National Parks magazine, NPCA. https://www.npca.org/articles/4668-strange-bedfellows
+[5] University of Nebraska-Lincoln, School of Natural Resources. 2024. News story on coyote-badger research (cites Minta et al. 34% figure). https://snr.unl.edu/aboutus/what/newstory.aspx?fid=1183
+[6] National Geographic. Feb 2020. "A coyote and badger..." (culvert video). https://www.nationalgeographic.com/animals/article/coyote-badger-video-behavior-friends
+[7] University of Nebraska-Lincoln. 11 Oct 2024. "Nebraska scientist documents rare pair of mammalian hunters." https://news.unl.edu/article/nebraska-scientist-documents-rare-pair-of-mammalian-hunters  (also https://research.unl.edu/blog/nebraska-scientist-documents-rare-pair-of-mammalian-hunters/)
+[8] Lehner, P.N. 1981. Coyote-badger associations. Great Basin Naturalist 41:347-348. https://scholarsarchive.byu.edu/gbn/vol41/iss3/14
+[9] Thornton, D.H. et al. 2018. Hunting associations of American badgers (Taxidea taxus) and coyotes (Canis latrans) revealed by camera trapping. Canadian Journal of Zoology 96(7). https://cdnsciencepub.com/doi/abs/10.1139/cjz-2017-0234
+[10] Windell, R.M., Bailey, L.L., Livieri, T.M., Eads, D.A., Biggins, D.E., Breck, S.W. 2024. Coyote use of prairie dog colonies is most frequent in areas used by American badgers. Journal of Mammalogy 105(6):1309-1321. https://pubs.usgs.gov/publication/70255993 ; https://academic.oup.com/jmammal/article/105/6/1309/7700998
+[11] Smithsonian Magazine. Feb 2020. "Watch a Coyote and Badger Hunt Their Prey Together." https://www.smithsonianmag.com/smart-news/watch-coyote-and-badger-hunt-their-prey-together-1-180974170/
+[12] USDA Forest Service, Fire Effects Information System. Taxidea taxus species review. https://research.fs.usda.gov/feis/species-reviews/tata  (also https://www.fs.usda.gov/database/feis/animals/mammal/tata/all.html)
+[13] Montana Fish, Wildlife & Parks. Montana Outdoors, Sept/Oct 2011 (badger feature). https://issuu.com/montanaoutdoors/docs/so11/43
+[14] The Wildlife Society. "Wild cam: Watch coyotes hunt with badgers" (quotes J. Benson). https://wildlife.org/wild-cam-watch-coyotes-hunt-with-badgers/
+[15] Daily Evergreen (Washington State Univ. student paper). "The formidable friendship of badgers and coyotes." https://dailyevergreen.com/?p=129730  (SECONDARY, use only as a lead)
+[16] U.S. Fish & Wildlife Service. 2016. "Spotted! A Coyote and Badger Hunting Together." https://www.fws.gov/story/spotted-coyote-and-badger-hunting-together
+[17] USDA FEIS Taxidea taxus review (as [12]); Wyoming diet, mortality, and taxonomy summaries came via search. https://research.fs.usda.gov/feis/species-reviews/tata
+[18] Animal Diversity Web / BioKIDS, University of Michigan. Taxidea taxus. https://animaldiversity.org/accounts/Taxidea_taxus/ ; https://biokids.umich.edu/critters/Taxidea_taxus
+[19] Missouri Department of Conservation. American Badger field guide. https://mdc.mo.gov/node/218987
+[20] NPS, Theodore Roosevelt / Badlands area. American Badger. https://www.nps.gov/thro/learn/nature/american-badger.htm
+[21] Parks Canada, Kootenay NP. American badger (jeffersonii). https://parks.canada.ca/pn-np/bc/kootenay/nature/conservation/especes-species/blaireau-badger
+[22] Montana Natural Heritage Program, Montana Field Guide. American Badger. https://fieldguide.mt.gov/detail_AMAJF04010.aspx
+[23] NPS, White Sands NP. American Badger. https://www.nps.gov/whsa/learn/nature/american-badger.htm
+[24] NPS, Wind Cave NP. American badger (Taxidea taxus). https://www.nps.gov/wica/learn/nature/american-badger-taxidea-taxus.htm
+[25] NPS, Mojave National Preserve. Badger. https://www.nps.gov/moja/learn/nature/badger.htm
+[26] Montana hunter/trapper education study guide, Badger. https://www.hunter-ed.com/montana/trapper/studyGuide/Badger/22102701_239395/
+[27] Minta, S.C. 1993. Sexual differences in spatio-temporal interaction among badgers. Oecologia 96:402-409. https://link.springer.com/doi/10.1007/BF00317511
+[28] Wyoming Game and Fish Department. Ask Game and Fish (badger classification). https://wgfd.wyo.gov/Ask-Game-and-Fish/span-id-docs-internal-guid-3922f7f2-7fff-35e6-c31a
+[29] Texas Parks and Wildlife Department. Coyote. https://tpwd.texas.gov/huntwild/wild/species/coyote
+[30] Texas Tech University, Mammals of Texas. Canis latrans. https://www.depts.ttu.edu/nsrl/mammals-of-texas-online-edition/Accounts_Carnivora/Canis_latrans.php
+[31] Colorado Parks and Wildlife. Wolf vs Coyote identification sign. https://cpw.state.co.us/Documents/Wolves/Wolf-VS-Coyote-Identification-Sign.pdf
+[32] NPS, Rocky Mountain NP. Coyote. https://www.nps.gov/romo/learn/nature/coyote_rmnp.htm
+[33] Animal Diversity Web, University of Michigan. Canis latrans. https://animaldiversity.org/accounts/Canis_latrans
+[34] Wyoming Statutes W.S. 23-1-101 (predatory animal definition), via Wyoming Legislature. https://wyoleg.gov/InterimCommittee/2024/06-202405144-03WyomingStateStatuteswithapplicabilitytograywolves.pdf
+[35] NPS, Yellowstone NP. Coyote. https://www.nps.gov/yell/learn/nature/coyote.htm
+[36] NPS, Yellowstone NP. Uinta Ground Squirrel. https://www.nps.gov/yell/learn/nature/uinta-ground-squirrel.htm
+[37] Animal Diversity Web, University of Michigan. Urocitellus armatus / Spermophilus armatus. https://animaldiversity.org/accounts/Urocitellus_armatus ; https://animaldiversity.org/accounts/Spermophilus_armatus
+[38] Teton Science Schools. "Kevin's Corner: Blissful Summer Days." https://www.tetonscience.org/kevins-corner-blissful-summer-days/
+[39] Buckrail (Jackson Hole news). "Last chance to spot Uinta ground squirrels until 2025." https://buckrail.com/last-chance-to-spot-uinta-ground-squirrels-until-2025/  (local news, consistent with [37] and [38])
+[40] Wyoming Game and Fish Department. White-tailed prairie dog species account (SGCN). https://wgfd.wyo.gov/media/7696/download ; also Univ. of Wyoming Extension B-1346 "Prairie Dog Ecology and Management in Wyoming" https://wyoextension.org/publications/html/B1346/
+[41] Animal Diversity Web, University of Michigan. Cynomys leucurus. https://animaldiversity.org/accounts/Cynomys_leucurus/
+[42] U.S. Fish & Wildlife Service. National Elk Refuge. https://www.fws.gov/refuge/national-elk ; archived profile https://webarchive.library.unt.edu/web/20090117190906/http://refuges.fws.gov/profiles/index.cfm?id=61550
+[43] USGS. "National Elk Refuge looking towards Sheep Mountain" (image). https://www.usgs.gov/media/images/national-elk-refuge-looking-towards-sheep-mountain
+[44] NPS, Grand Teton NP. Plants. https://www.nps.gov/grte/learn/nature/plants.htm
+[45] NPS, Grand Teton NP. Sagebrush Restoration (Antelope Flats). https://www.nps.gov/grte/learn/nature/sagebrush-restoration.htm
+[46] NPS, Grand Teton NP. Plants handout (PDF). https://home.nps.gov/grte/learn/nature/upload/Plants-access.pdf
+[47] ABC7 / KGO-TV. 5 Feb 2020. "Bay Area coyote, badger hunting & playing together goes viral" (reports POST statement). https://abc7news.com/5903686/  (the original POST post was not located; the quotes come via the news report)
+
+======================================================================
+UNVERIFIED / NOT FOUND (do not narrate as fact)
+======================================================================
+- Exact capture rates per hour, the number of associations, association duration, the percentages of 1 vs 2 vs 3 coyotes, and the exact months, all from Minta 1992 (need the full paper).
+- The "sleeping together / touching noses" detail (secondary press only).
+- The ~81% activity overlap figure from Windell 2024 (search summary, not read).
+- Whether juveniles vs adults take part.
+- The Panthera camera-trap study of coyote-badger pairs (none found).
+- That black-tailed prairie dogs don't hibernate (not sourced here).
+- Wyoming-specific coyote and badger weights.
