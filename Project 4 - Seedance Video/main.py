@@ -25,7 +25,7 @@ from higgsfield_client import (  # noqa: E402
     Queued,
 )
 
-MODEL = os.getenv("HF_MODEL", "sand-ai/magi-2/text-to-video")
+MODEL = os.getenv("HF_MODEL", "sand/magi-2/text-to-video")
 ARGUMENTS = {
     "prompt": "A cinematic scene at sunset",
     "duration": 5,  # 4-30 seconds
